@@ -9,7 +9,7 @@ backgroundSubtractor
 
 import cv2
 
-cap = cv2.VideoCapture('Lombard Street San Francisco California USA Collage Video - youtube.comtanvideo11.wmv') # video shared by youtube.comtanvideo11
+cap = cv2.VideoCapture('Lombard Street San Francisco California by youtube.comtanvideo11.mp4') # video shared by youtube.comtanvideo11
 fgbg_MOG = cv2.bgsegm.createBackgroundSubtractorMOG()
 fgbg_MOG2 = cv2.createBackgroundSubtractorMOG2()
 fgbg_GMG = cv2.bgsegm.createBackgroundSubtractorGMG() # SLOW
