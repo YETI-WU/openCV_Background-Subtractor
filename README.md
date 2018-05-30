@@ -13,3 +13,5 @@ by Z.Zivkovic
 3. GMG -- Algorithm combines statistical background image estimation and per-pixel Bayesian segmentation.  
 “Visual Tracking of Human Visitors under Variable-Lighting Conditions for a Responsive Audio Art Installation” in 2012.  
 by Andrew B. Godbehere, Akihiro Matsukawa, Ken Goldberg  
+
+![](images/backgroundSubtractor.png)
